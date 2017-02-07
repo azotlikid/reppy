@@ -14,3 +14,5 @@ venv*
 
 # Vagrant
 .vagrant/
+*.swp
+*.un~
