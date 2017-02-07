@@ -1,8 +1,6 @@
 # cython: linetrace=True
 # distutils: define_macros=CYTHON_TRACE=1
 
-# Never Surrender
-
 from contextlib import closing
 import time
 
